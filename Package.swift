@@ -14,7 +14,7 @@ let package = Package(
         .binaryTarget(
             name: "SmartdigimktSDK",
             url: "https://sz-kuying-sdk.oss-accelerate.aliyuncs.com/pkgs/SDK/iOS/v6.0.0/SmartDigimktSDK.zip",
-            checksum: "aae9ba2858d53c39d7a99763302ff22e889d80376d1c419d2a4a7162dded759f"
+            checksum: "c2b59748f9c69a0eed75d3786808256be847065238b6a06c92aa26769c4017e3"
         )
     ]
 )
