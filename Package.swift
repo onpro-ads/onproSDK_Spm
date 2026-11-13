@@ -2,19 +2,19 @@
 import PackageDescription
 
 let package = Package(
-    name: "SmartdigimktSDK",
+    name: "AggregatortechSDK",
     platforms: [.iOS(.v10)],
     products: [
         .library(
-            name: "SmartdigimktSDK",
-            targets: ["SmartdigimktSDK"]
+            name: "AggregatortechSDK",
+            targets: ["AggregatortechSDK"]
         ),
     ],
     targets: [
         .binaryTarget(
-            name: "SmartdigimktSDK",
-            url: "https://sz-kuying-sdk.oss-accelerate.aliyuncs.com/pkgs/SDK/iOS/v6.0.1/SmartDigimktSDK.zip",
-            checksum: "4d74b2e8314e447cab4b55a9cb066f29728b9467a72bc880605b0aed50001a14"
+            name: "AggregatortechSDK",
+            url: "https://sz-kuying-sdk.oss-accelerate.aliyuncs.com/pkgs/SDK/iOS/v6.0.2/AggregatortechSDK.zip",
+            checksum: "142e9e9bd43b24306c27d5820e38a2832d211215b47bb85828d70421311c3a4f"
         )
     ]
 )
