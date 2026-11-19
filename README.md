@@ -29,7 +29,3 @@ dependencies: [
     )
 ]
 ```
-
-## More information
-
-- [onpro iOS Integration Guide](https://docs.toponad.com)
