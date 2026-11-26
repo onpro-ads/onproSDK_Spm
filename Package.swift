@@ -19,8 +19,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SmartdigimktSDK",
-            url: "https://sz-kuying-sdk.oss-accelerate.aliyuncs.com/pkgs/SDK/iOS/v6.5.86/SmartDigimktSDK.zip",
-            checksum: "2b6adc8c402a7b4c3665c4f2afeeeaaf0b2d0348ac96e99fc47dfaac68bfd3aa"
+            url: "https://sz-kuying-sdk.oss-accelerate.aliyuncs.com/pkgs/SDK/iOS/v6.5.87/SmartDigimktSDK.zip",
+            checksum: "0dfcee16092aab4bcac0eca53f364a94e4d9f163ed78f7ec544ffd4cf7a803a9"
         ),
         .target(
             name: "AGTGoogleUMPDependency",
