@@ -16,7 +16,7 @@ The onpro Smartdigimkt ADX SDK for iOS, distributed via Swift Package Manager.
    ```
    https://github.com/onpro-ads/onproSDK_Spm.git
    ```
-3. Select **Exact Version** and enter the target version (e.g. `6.5.86`).
+3. Select **Exact Version** and enter the target version (e.g. `6.5.87`).
 4. Add the `SmartdigimktSDK` product to your app target.
 
 ### Package.swift
@@ -25,11 +25,7 @@ The onpro Smartdigimkt ADX SDK for iOS, distributed via Swift Package Manager.
 dependencies: [
     .package(
         url: "https://github.com/onpro-ads/onproSDK_Spm.git",
-        exact: "6.5.86"
+        exact: "6.5.87"
     )
 ]
 ```
-
-## More information
-
-- [onpro iOS Integration Guide](https://docs.toponad.com)
